@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calculadora/static/css/main.1f0a6d52.css",
+    "main.js": "/calculadora/static/js/main.64497706.js",
+    "static/js/453.ceb27270.chunk.js": "/calculadora/static/js/453.ceb27270.chunk.js",
+    "static/media/Design sem nome (5).png": "/calculadora/static/media/Design sem nome (5).1e38ea3a6b30113e3a61.png",
+    "index.html": "/calculadora/index.html",
+    "main.1f0a6d52.css.map": "/calculadora/static/css/main.1f0a6d52.css.map",
+    "main.64497706.js.map": "/calculadora/static/js/main.64497706.js.map",
+    "453.ceb27270.chunk.js.map": "/calculadora/static/js/453.ceb27270.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f0a6d52.css",
+    "static/js/main.64497706.js"
+  ]
+}
